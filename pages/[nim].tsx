@@ -39,7 +39,7 @@ export default function Home() {
         <main className="mt-16 sm:mt-20 text-center">
           <Image
             src={logo}
-            alt="Picture of the author"
+            alt="Mahardika Abhipraya"
             className="w-20 mx-auto sm:w-28"
           />
           <h1 className="text-2xl sm:text-4xl mt-4 font-black">
