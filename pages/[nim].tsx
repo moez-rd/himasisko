@@ -1,8 +1,8 @@
 import Head from "next/head";
 import Image from "next/image";
-import { Fragment, useState } from "react";
-import logo from "../../public/logo.png";
-import staffs from "../../staff";
+import { Fragment } from "react";
+import logo from "../public/logo.png";
+import staffs from "../staff";
 import { useRouter } from "next/router";
 import Link from 'next/link'
 

@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import logo from "../../public/logo.png";
+import logo from "../public/logo.png";
 import { useRouter } from "next/router";
 import { FormEvent, useState } from "react";
 
@@ -10,7 +10,7 @@ export default function Home() {
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    router.push(`/oprec/${nim}`);
+    router.push(`/${nim}`);
   };
 
   return (
