@@ -136,13 +136,6 @@ module.exports = [
     divisi: "Olahraga",
   },
   {
-    nama: "TIARA PUTRI AMANDA",
-    nim: "09011182227015",
-    lulus: true,
-    dinas: "Pengembangan Minat dan Bakat (PMB)",
-    divisi: "",
-  },
-  {
     nama: "PRATAMA ARJAN RANGKUTI",
     nim: "09011182227006",
     lulus: true,
@@ -308,4 +301,11 @@ module.exports = [
     dinas: "Kesekretariatan (Kestari)",
     divisi: "",
   },
+  {
+    nama: "TIARA PUTRI AMANDA",
+    nim: "09011182227015",
+    lulus: true,
+    dinas: "Kesekretariatan (Kestari)",
+    divisi: "",
+  }
 ];
