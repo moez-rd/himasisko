@@ -90,7 +90,7 @@ export default function Home() {
                       </div>
                     )}
                     <p className="mb-2">
-                      Silakan bergabung ke grup WhatsApp kabinat Mahardika
+                      Silakan bergabung ke grup WhatsApp Kabinat Mahardika
                       Abhipraya.
                     </p>
                   </div>
