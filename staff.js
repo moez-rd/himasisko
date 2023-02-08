@@ -92,6 +92,13 @@ module.exports = [
     dinas: "Pengembangan Sumber Daya Manusia (PSDM)",
     divisi: "",
   },
+  {
+    nama: "BAYU TRISAPUTRO",
+    nim: "09011382227159",
+    lulus: true,
+    dinas: "Pengembangan Sumber Daya Manusia (PSDM)",
+    divisi: "",
+  },
   // ======== DINAS PMB ======== //
   {
     nama: "BERTI AYUZAHARA",
