@@ -307,12 +307,5 @@ module.exports = [
     lulus: true,
     dinas: "Kesekretariatan (Kestari)",
     divisi: "",
-  },
-  {
-    nama: "TRIA LAILANI",
-    nim: "09011282126121",
-    lulus: true,
-    dinas: "Nasi Goreng (Nasgor)",
-    divisi: "Perkecapan",
   }
 ];
