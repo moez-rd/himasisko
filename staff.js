@@ -311,7 +311,7 @@ module.exports = [
   {
     nama: "TRIA LAILANI",
     nim: "09011282126121",
-    lulus: false,
+    lulus: true,
     dinas: "Nasi Goreng (Nasgor)",
     divisi: "Perkecapan",
   }
