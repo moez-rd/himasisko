@@ -11,7 +11,7 @@ const arima_madurai = Arima_Madurai({
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <div className={`${arima_madurai.variable} font-primary`}>
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
     </div>
   );
 }
